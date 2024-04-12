@@ -1,0 +1,6 @@
+
+
+////----using refactorian libraries
+https://github.com/refactorian/laravel-docker?tab=readme-ov-file
+https://www.itsolutionstuff.com/post/laravel-10-custom-login-and-registration-exampleexample.html
+
